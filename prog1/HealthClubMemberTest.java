@@ -1,5 +1,3 @@
-// Suman Yadav
-// CSCI 2003   Date: February 6, 2024
 // This program is tester for HealthClubMmber class. It uses the getters and setters method from class and
 // provide information based on that. There are three different constructors  used in this code: one with no 
 //arguments, another with no argumnets with different parameters, and last one with arguments. It also use to

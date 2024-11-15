@@ -1,5 +1,3 @@
-// Suman Yadav
-// CSCI 2003  Date: February 6, 2024
 // This is class called HealthClubMember that stores the member's information in different instance called name, age, weight, and height.
 // this program performs encapsulation principle by making the instance variable private. It also provide public methods to access and 
 // modify member's details without direct contacting private variables. It uses methods like getters and setters and finally to string.
@@ -10,7 +8,7 @@ public class HealthClubMember
    // Initiating instance variables
    private String name;
    private int age;
-   private int weight;a
+   private int weight;
    private int height;
 
    //Making no argument constructors
