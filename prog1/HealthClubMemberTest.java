@@ -10,7 +10,7 @@ public class HealthClubMemberTest
       // Testing no arguments in constructor
       System.out.println("##Testing no arguments in constructor\n");
       HealthClubMember member =   new HealthClubMember();
-       
+   
       // Testing getters     
       System.out.println("Expected:   Name: Healthy Person");
       System.out.println("Actual:     Name: " + member.getName());
@@ -37,7 +37,7 @@ public class HealthClubMemberTest
       System.out.println("\n##Testinig with no arguments constructor with new parameters");
       HealthClubMember ironman =   new HealthClubMember("Ironman", 50, 163, 80);
             
-      
+      //
       System.out.println("\nExpected:   Name: Ironman");
       System.out.println("Actual:    Name : " + ironman.getName());
       
@@ -90,11 +90,6 @@ public class HealthClubMemberTest
       System.out.println("________________________________\n");
       System.out.println(member);
       System.out.println(ironman);
-      System.out.println(captainAmerica);
-
-      
+      System.out.println(captainAmerica); 
       }
-
-
-
 }
